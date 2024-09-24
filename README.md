@@ -63,9 +63,9 @@ Using streamlit module,create an input field where user can enter each column va
 
 ## Streamlt Overview
 
-![Loan Defaults]
-![Customer Segmentation]
-![Product Recommendation]
+![Loan Defaults](https://github.com/Sakthipavithran16/Loan_defaults_prediction/blob/main/Streamlit_images/Loan%20defaults.JPG)
+![Customer Segmentation](https://github.com/Sakthipavithran16/Loan_defaults_prediction/blob/main/Streamlit_images/Customer%20segmentation.JPG)
+![Product Recommendation](https://github.com/Sakthipavithran16/Loan_defaults_prediction/blob/main/Streamlit_images/Product%20recommendation.JPG)
 
 
 
