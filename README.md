@@ -5,9 +5,12 @@ Banks deal with large volumes of customer data and transactions daily. There is 
 
 ## Problem Statement
 This project aims to solve three critical problems:
-1. Loan Default Prediction: Banks need to minimize financial risk by predicting which customers are likely to default on loans. Accurate predictions can lead to better loan approval processes and risk management.
-2. Customer Segmentation: By understanding customer behavior, banks can target their marketing strategies more effectively, enhancing customer satisfaction and increasing revenue.
-3. Product Recommendations: Recommending the right products to customers based on their past behavior can increase customer loyalty and boost cross-selling opportunities.
+#### 1. Loan Default Prediction: 
+Banks need to minimize financial risk by predicting which customers are likely to default on loans. Accurate predictions can lead to better loan approval processes and risk management.
+#### 2. Customer Segmentation: 
+By understanding customer behavior, banks can target their marketing strategies more effectively, enhancing customer satisfaction and increasing revenue.
+##### 3. Product Recommendations: 
+Recommending the right products to customers based on their past behavior can increase customer loyalty and boost cross-selling opportunities.
 
 ## Approach
 
